@@ -1,8 +1,2 @@
 coding project
-
-
-
-wow
-
-
-yeah instructions are in comments in the PY for now maybe ill add a readme later
+i do not have a readme yet but the python file has comments. that will suffice for now
